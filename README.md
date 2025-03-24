@@ -1,4 +1,4 @@
-# ProgrammingChallenge
+# Programming Challenge
 Random Objects Generator
 
 Note : Refer to ChallengeB.cs
