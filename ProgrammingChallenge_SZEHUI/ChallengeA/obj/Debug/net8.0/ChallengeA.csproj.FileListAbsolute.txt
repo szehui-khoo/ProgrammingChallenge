@@ -1,0 +1,28 @@
+C:\Users\KHOO435739\Documents\Random Program\ProgrammingChallenge_SZEHUI\ChallengeA\bin\Debug\net8.0\ChallengeA.exe
+C:\Users\KHOO435739\Documents\Random Program\ProgrammingChallenge_SZEHUI\ChallengeA\bin\Debug\net8.0\ChallengeA.deps.json
+C:\Users\KHOO435739\Documents\Random Program\ProgrammingChallenge_SZEHUI\ChallengeA\bin\Debug\net8.0\ChallengeA.runtimeconfig.json
+C:\Users\KHOO435739\Documents\Random Program\ProgrammingChallenge_SZEHUI\ChallengeA\bin\Debug\net8.0\ChallengeA.dll
+C:\Users\KHOO435739\Documents\Random Program\ProgrammingChallenge_SZEHUI\ChallengeA\bin\Debug\net8.0\ChallengeA.pdb
+C:\Users\KHOO435739\Documents\Random Program\ProgrammingChallenge_SZEHUI\ChallengeA\obj\Debug\net8.0\ChallengeA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOO435739\Documents\Random Program\ProgrammingChallenge_SZEHUI\ChallengeA\obj\Debug\net8.0\ChallengeA.AssemblyInfoInputs.cache
+C:\Users\KHOO435739\Documents\Random Program\ProgrammingChallenge_SZEHUI\ChallengeA\obj\Debug\net8.0\ChallengeA.AssemblyInfo.cs
+C:\Users\KHOO435739\Documents\Random Program\ProgrammingChallenge_SZEHUI\ChallengeA\obj\Debug\net8.0\ChallengeA.csproj.CoreCompileInputs.cache
+C:\Users\KHOO435739\Documents\Random Program\ProgrammingChallenge_SZEHUI\ChallengeA\obj\Debug\net8.0\ChallengeA.dll
+C:\Users\KHOO435739\Documents\Random Program\ProgrammingChallenge_SZEHUI\ChallengeA\obj\Debug\net8.0\refint\ChallengeA.dll
+C:\Users\KHOO435739\Documents\Random Program\ProgrammingChallenge_SZEHUI\ChallengeA\obj\Debug\net8.0\ChallengeA.pdb
+C:\Users\KHOO435739\Documents\Random Program\ProgrammingChallenge_SZEHUI\ChallengeA\obj\Debug\net8.0\ChallengeA.genruntimeconfig.cache
+C:\Users\KHOO435739\Documents\Random Program\ProgrammingChallenge_SZEHUI\ChallengeA\obj\Debug\net8.0\ref\ChallengeA.dll
+C:\Users\KHOO435739\Documents\RandomProgram\ProgrammingChallenge_SZEHUI\ChallengeA\bin\Debug\net8.0\ChallengeA.exe
+C:\Users\KHOO435739\Documents\RandomProgram\ProgrammingChallenge_SZEHUI\ChallengeA\bin\Debug\net8.0\ChallengeA.deps.json
+C:\Users\KHOO435739\Documents\RandomProgram\ProgrammingChallenge_SZEHUI\ChallengeA\bin\Debug\net8.0\ChallengeA.runtimeconfig.json
+C:\Users\KHOO435739\Documents\RandomProgram\ProgrammingChallenge_SZEHUI\ChallengeA\bin\Debug\net8.0\ChallengeA.dll
+C:\Users\KHOO435739\Documents\RandomProgram\ProgrammingChallenge_SZEHUI\ChallengeA\bin\Debug\net8.0\ChallengeA.pdb
+C:\Users\KHOO435739\Documents\RandomProgram\ProgrammingChallenge_SZEHUI\ChallengeA\obj\Debug\net8.0\ChallengeA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOO435739\Documents\RandomProgram\ProgrammingChallenge_SZEHUI\ChallengeA\obj\Debug\net8.0\ChallengeA.AssemblyInfoInputs.cache
+C:\Users\KHOO435739\Documents\RandomProgram\ProgrammingChallenge_SZEHUI\ChallengeA\obj\Debug\net8.0\ChallengeA.AssemblyInfo.cs
+C:\Users\KHOO435739\Documents\RandomProgram\ProgrammingChallenge_SZEHUI\ChallengeA\obj\Debug\net8.0\ChallengeA.csproj.CoreCompileInputs.cache
+C:\Users\KHOO435739\Documents\RandomProgram\ProgrammingChallenge_SZEHUI\ChallengeA\obj\Debug\net8.0\ChallengeA.dll
+C:\Users\KHOO435739\Documents\RandomProgram\ProgrammingChallenge_SZEHUI\ChallengeA\obj\Debug\net8.0\refint\ChallengeA.dll
+C:\Users\KHOO435739\Documents\RandomProgram\ProgrammingChallenge_SZEHUI\ChallengeA\obj\Debug\net8.0\ChallengeA.pdb
+C:\Users\KHOO435739\Documents\RandomProgram\ProgrammingChallenge_SZEHUI\ChallengeA\obj\Debug\net8.0\ChallengeA.genruntimeconfig.cache
+C:\Users\KHOO435739\Documents\RandomProgram\ProgrammingChallenge_SZEHUI\ChallengeA\obj\Debug\net8.0\ref\ChallengeA.dll
